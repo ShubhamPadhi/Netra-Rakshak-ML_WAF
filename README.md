@@ -21,7 +21,7 @@ We have containerized the entire solution for a one-step deployment.
 Open your terminal and run the following commands:
 ```bash
 git clone https://github.com/ShubhamPadhi/Netra-Rakshak-ML_WAF.git
-cd artificial-intelligence-ShubhamPadhi
+cd Netra-Rakshak-ML_WAF
 # Only run this if your docker-compose.yml is inside this subfolder:
 # cd ML-WAF_Netra-Rakshak  <-- LIKELY NOT NEEDED, BUT CHECK GITHUB
 ```
