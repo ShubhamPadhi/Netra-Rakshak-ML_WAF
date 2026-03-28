@@ -20,7 +20,7 @@ We have containerized the entire solution for a one-step deployment.
 ### 1. Clone the Repository
 Open your terminal and run the following commands:
 ```bash
-git clone [https://github.com/Naval-Innovathon-25/artificial-intelligence-ShubhamPadhi.git](https://github.com/Naval-Innovathon-25/artificial-intelligence-ShubhamPadhi.git)
+git clone https://github.com/ShubhamPadhi/Netra-Rakshak-ML_WAF.git
 cd artificial-intelligence-ShubhamPadhi
 # Only run this if your docker-compose.yml is inside this subfolder:
 # cd ML-WAF_Netra-Rakshak  <-- LIKELY NOT NEEDED, BUT CHECK GITHUB
