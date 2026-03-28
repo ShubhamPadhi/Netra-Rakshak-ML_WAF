@@ -1,0 +1,153 @@
+2026-01-01 18:09:56,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:09:58,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:10:01,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:10:59,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:02,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:04,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:07,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:10,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:12,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:15,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:17,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:20,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:23,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:25,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:28,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:30,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:33,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:35,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:38,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:41,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:43,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:46,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:48,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:51,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:54,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:56,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:11:59,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:02,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:04,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:07,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:09,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:12,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:14,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:17,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:20,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:22,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:25,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:27,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:30,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:33,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:35,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:38,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:40,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:43,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:46,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:48,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:51,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:53,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:56,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:12:58,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:13:01,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:13:04,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:13:06,127.0.0.1,Normal Traffic,0.00,Allowed
+2026-01-01 18:13:09,127.0.0.1,Hybrid Attack,0.65,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:13:11,127.0.0.1,Hybrid Attack,0.76,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:13:13,127.0.0.1,Hybrid Attack,0.83,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:13:15,127.0.0.1,Buffer Overflow,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Buffer Overflow Attempt
+2026-01-01 18:14:03,127.0.0.1,Normal Traffic,0.15,Allowed
+2026-01-01 18:14:04,127.0.0.1,Normal Traffic,0.26,Allowed
+2026-01-01 18:14:05,127.0.0.1,Normal Traffic,0.33,Allowed
+2026-01-01 18:14:06,127.0.0.1,Normal Traffic,0.23,Allowed
+2026-01-01 18:14:08,127.0.0.1,Normal Traffic,0.31,Allowed
+2026-01-01 18:14:12,127.0.0.1,Normal Traffic,0.37,Allowed
+2026-01-01 18:14:14,127.0.0.1,Normal Traffic,0.41,Allowed
+2026-01-01 18:14:16,127.0.0.1,Normal Traffic,0.29,Allowed
+2026-01-01 18:14:17,127.0.0.1,Hybrid Attack,0.85,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:18,127.0.0.1,Hybrid Attack,0.89,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:20,127.0.0.1,Hybrid Attack,0.93,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:21,127.0.0.1,Hybrid Attack,0.95,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:22,127.0.0.1,Hybrid Attack,0.81,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:24,127.0.0.1,Hybrid Attack,0.87,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:24,127.0.0.1,Normal Traffic,0.41,Allowed
+2026-01-01 18:14:24,127.0.0.1,Normal Traffic,0.44,Allowed
+2026-01-01 18:14:24,127.0.0.1,Normal Traffic,0.46,Allowed
+2026-01-01 18:14:25,127.0.0.1,Normal Traffic,0.47,Allowed
+2026-01-01 18:14:25,127.0.0.1,Normal Traffic,0.48,Allowed
+2026-01-01 18:14:25,127.0.0.1,Normal Traffic,0.48,Allowed
+2026-01-01 18:14:26,127.0.0.1,Normal Traffic,0.49,Allowed
+2026-01-01 18:14:26,127.0.0.1,Normal Traffic,0.49,Allowed
+2026-01-01 18:14:26,127.0.0.1,Normal Traffic,0.49,Allowed
+2026-01-01 18:14:27,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:27,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:27,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:27,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:28,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:28,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:28,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:29,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:29,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:29,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:29,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:30,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:30,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:30,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:30,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:31,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:31,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:31,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:32,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:32,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:32,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:32,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:33,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:33,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:33,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:34,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:34,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:34,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:34,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:35,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:35,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:35,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:36,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:36,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:36,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:36,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:37,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:37,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:37,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:38,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:38,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:38,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:38,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:39,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:39,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:39,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:40,127.0.0.1,Normal Traffic,0.50,Allowed
+2026-01-01 18:14:40,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:40,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:40,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:41,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:41,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:41,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:41,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:42,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:42,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:42,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:43,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:43,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:43,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:44,127.0.0.1,Hybrid Attack,1.00,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:44,127.0.0.1,Hybrid Attack,0.85,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:14:59,127.0.0.1,Hybrid Attack,0.89,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:15:12,127.0.0.1,Hybrid Attack,0.93,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Hybrid Attack
+2026-01-01 18:15:34,127.0.0.1,Zero-Day Anomaly,0.45,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Zero-Day Anomaly
+2026-01-01 18:15:40,127.0.0.1,Zero-Day Anomaly,0.46,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Zero-Day Anomaly
+2026-01-01 18:15:53,127.0.0.1,Normal Traffic,0.47,Allowed
+2026-01-01 18:15:59,127.0.0.1,Zero-Day Anomaly,0.48,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Zero-Day Anomaly
+2026-01-01 18:26:41,127.0.0.1,Normal Traffic,0.15,Allowed
+2026-01-01 18:27:01,127.0.0.1,Normal Traffic,0.26,Allowed
+2026-01-01 18:27:06,127.0.0.1,Normal Traffic,0.33,Allowed
+2026-01-01 18:27:11,127.0.0.1,Zero-Day Anomaly,0.38,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Zero-Day Anomaly
+2026-01-01 18:27:22,127.0.0.1,Zero-Day Anomaly,0.42,iptables -I INPUT -s 127.0.0.1 -j DROP # Blocked: Zero-Day Anomaly
